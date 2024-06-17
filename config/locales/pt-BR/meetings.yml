@@ -110,6 +110,8 @@ pt-BR:
             invalid: Ocorreu um problema ao atualizar a enquete deste evento
             success: Enquete do evento atualizado com sucesso
         exports:
+          meetings: Exportar eventos
+          meeting_comments: Exportar contribuições
           registrations: Inscrições
         invite_join_meeting_mailer:
           invite:
@@ -193,6 +195,16 @@ pt-BR:
             hybrid: Ambas
             in_person: Presencial
             online: Virtual
+        orders:
+          label: "Ordene por:"
+          most_commented: Mais contribuições
+          most_followed: Mais seguidas
+          random: Aleatório
+          recent: Recentes
+        count:
+          meetings_count: 
+            one: "%{count} evento encontrado"
+            other: "%{count} eventos encontrados"
         index:
           new_meeting: Criar evento
           click_here: Ver todos os eventos
